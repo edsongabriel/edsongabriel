@@ -8,7 +8,7 @@ Técnico em Informática | Estudante de Teconologia da Informação :computer:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/edsongabrielfg)](https://twitter.com/edsongabrielfg)
 
 <br /> Sou entusiasta de tecnologia e dedico grande parte do meu tempo ao estudo de programação. :books:
-<br /> Sempre buscando conhecimento!
+<br /> Sempre em busca de conhecimento!
 
 
 
